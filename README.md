@@ -1,11 +1,4 @@
-Welcome! I am a Ph.D. student in Finance at the University of Missouri, with a strong background in quantitative methods, financial modeling, and empirical research. I hold a Master’s in Quantitative Finance from Oklahoma State University and a BBA in Finance from the University of Dhaka.<br>
-
-My research interests include:
-- Asset Pricing and Market Efficiency
-- Textual Analysis and Sentiment in Financial Markets
-- Investment Strategies and Portfolio Risk Management.
-
-I am passionate about using data-driven approaches to answer questions in Finance.
+Welcome! I am a Ph.D. student in Finance at the University of Missouri, with a strong background in quantitative methods, financial modeling, and empirical research. I hold an M.S. in Quantitative Finance from the Oklahoma State University and a B.B.A. in Finance from the University of Dhaka. My research interests include investsments and asset pricing with current projects focusing on private equity and alternative investments.
 
 ---
 
